@@ -1,0 +1,8 @@
+program var
+int a, b, c, d
+begin
+read(a);
+b as 001b;
+c as 5d plus 7h;
+write(d);
+end.
